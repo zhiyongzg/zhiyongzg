@@ -1,6 +1,6 @@
 ### Hi, I'm Zhiyong 👋
 
-I'm a test development engineer focused around phone and automotive OS testing.
+I'm a test development engineer focused around automated testing for mobile and automotive OS.
 
 Things I’m currently working on and/or passionate about include:
 
